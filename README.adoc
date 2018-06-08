@@ -1,6 +1,6 @@
 = Land Information System (LIS)
 
-WARNING: This is repository is for testing only.  It is not an official release of the LIS software.
+WARNING: This repository is for testing only.  It is not an official release of the LIS software.
 
 
 == Overview
